@@ -80,7 +80,7 @@ Instantly see improvements in their carbon score
 
 Learn how consumption choices affect sustainability
 
-### 🌱 What Makes TerraQuest Different
+## 🌱 What Makes TerraQuest Different
 
 Gamification-first design (missions, rewards, carbon points)
 
