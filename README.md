@@ -18,74 +18,61 @@ TerraQuest makes sustainability visible, personal, and actionable—helping user
 
 ## ❗Problem Statement
 
-- Sustainability is difficult to measure
-- Existing solutions lack personalization
-- Low engagement leads to poor long-term habit formation
-- Most tools are not localized to UAE infrastructure
+- Sustainability is difficult to measure.
+- Existing solutions lack personalization.
+- Low engagement leads to poor long-term habit formation.
+- Most tools are not localized to UAE infrastructure.
 
 ## 💡 Our Solution
 
 TerraQuest transforms sustainability into an engaging journey by:
 
-Visualizing carbon impact through points and progress
-
-Using gamification to motivate behavior change
-
-Personalizing insights based on user habits
-
-Localizing experiences for the UAE environment
+- Visualizing carbon impact through points and progress.
+- Using gamification to motivate behavior change.
+- Personalizing insights based on user habits.
+- Localizing experiences for the UAE environment.
 
 ## 🎮 Core Features
 ### 🔍 Onboarding & Carbon Baseline
 
 Quick onboarding survey capturing:
 
-Home energy usage
-
-Commuting preferences
-
-Shopping habits
-
-Generates an initial carbon status to track progress from day one
+- Home energy usage
+- Commuting preferences
+- Shopping habits
+- Generates an initial carbon status to track progress from day one
 
 ### 🏠 Level 1: Eco Home
 
 Focuses on household choices such as:
 
-AC temperature settings
+- AC temperature settings
+- Electricity usage
+- Water consumption
 
-Electricity usage
-
-Water consumption
 Users see how small actions reduce carbon impact.
 
 ### 🚇 Level 2: Urban Commute
 
 An urban runner–style game where users:
 
-Choose real transport options (metro, bus, walking)
-
-Earn carbon points for sustainable commuting
-
-Experience routes inspired by real UAE city layouts
+- Choose real transport options (metro, bus, walking)
+- Earn carbon points for sustainable commuting
+- Experience routes inspired by real UAE city layouts
 
 ### 🛍️ Level 3: Sustainable Shopping
 
 Users make eco-friendly purchasing decisions and:
 
-Instantly see improvements in their carbon score
-
-Learn how consumption choices affect sustainability
+- Instantly see improvements in their carbon score
+- Learn how consumption choices affect sustainability
 
 ## 🌱 What Makes TerraQuest Different
 
-Gamification-first design (missions, rewards, carbon points)
-
-Real-world integration with systems such as NOL cards and utilities like DEWA / SEWA
-
-Inspired by real UAE landmarks, including cities like Dubai
-
-Focus on action, not just information
+- Gamification-first design (missions, rewards, carbon points)
+- Real-world integration with systems such as NOL cards and utilities like DEWA / SEWA
+- Inspired by real UAE landmarks, including cities like Dubai
+- Focus on action, not just information
 
 ## 🛠️ Technical Feasibility
 
@@ -97,11 +84,9 @@ AI & Personalization: Python-based AI models
 
 Accessibility:
 
-Voice control
-
-Screen reader support
-
-Low-spec device compatibility
+- Voice control
+- Screen reader support
+- Low-spec device compatibility
 
 ## 🎯 Target Audience
 
