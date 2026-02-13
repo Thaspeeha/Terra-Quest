@@ -137,6 +137,17 @@ Engage with sustainability as a community experience
 
 Turn small actions into big environmental impact
 
+## 🧪 Figma Prototype
+[![View Prototype](https://img.shields.io/badge/View-Prototype-purple)](https://www.figma.com/design/H43IXh9PwUaNGWNcN53HGV/EISC-2026?node-id=0-1&t=MpwN7lv0feh3TiiO-1)
+
+## 🖥️ Presentation
+[![PPT](https://img.shields.io/badge/Presentation-PPTX-blue)](https://www.canva.com/design/DAG--0xnSeM/4_kqzMo-TFnBVaS0vmUpLA/view?utm_content=DAG--0xnSeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04c6a73af5)  
+
+## 📜 License
+
+This project is licensed for **educational and research purposes only**.  
+Commercial use is **not permitted** without prior authorization.
+
 ## 🎯 Small actions. Big impact.
 
 Play. Engage. Make every choice count—for a greener future.
