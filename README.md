@@ -88,11 +88,9 @@ Accessibility:
 
 ## 🎯 Target Audience
 
-Working professionals
-
-University students
-
-Adults interested in sustainability
+- Working professionals
+- University students
+- Adults interested in sustainability
 
 Strong focus on youth and young adults, representing nearly 40% of the target market
 
