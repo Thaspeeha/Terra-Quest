@@ -18,13 +18,13 @@ TerraQuest makes sustainability visible, personal, and actionable—helping user
 
 ## ❗Problem Statement
 
--Sustainability is difficult to measure
+- Sustainability is difficult to measure
 
--Existing solutions lack personalization
+- Existing solutions lack personalization
 
--Low engagement leads to poor long-term habit formation
+- Low engagement leads to poor long-term habit formation
 
--Most tools are not localized to UAE infrastructure
+- Most tools are not localized to UAE infrastructure
 
 ## 💡 Our Solution
 
