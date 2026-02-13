@@ -76,11 +76,9 @@ Users make eco-friendly purchasing decisions and:
 
 ## 🛠️ Technical Feasibility
 
-Frontend: Flutter, Android Studio
-
-Backend & Database: Firebase / MySQL
-
-AI & Personalization: Python-based AI models
+- Frontend: Flutter, Android Studio
+- Backend & Database: Firebase / MySQL
+- AI & Personalization: Python-based AI models
 
 Accessibility:
 
@@ -104,38 +102,27 @@ Vision:
 To make eco-conscious living fun, accessible, and rewarding.
 
 Goals:
-
-Gamify daily actions with carbon point rewards
-
-Encourage sustainable commuting and energy use
-
-Connect users to eco-friendly events
-
-Enable measurable environmental impact across the UAE
+- Gamify daily actions with carbon point rewards
+- Encourage sustainable commuting and energy use
+- Connect users to eco-friendly events
+- Enable measurable environmental impact across the UAE
 
 ## 🔮 Future Enhancements
 
-New sustainability missions (recycling, water conservation)
-
-AI-driven recommendations
-
-Leaderboards and community challenges
-
-Redeemable points at public venues
-
-Expanded community and social engagement features
+- New sustainability missions (recycling, water conservation)
+- AI-driven recommendations
+- Leaderboards and community challenges
+- Redeemable points at public venues
+- Expanded community and social engagement features
 
 ## 🌟 Impact
 
 TerraQuest empowers users to:
 
-Reduce carbon emissions through daily choices
-
-Build sustainable habits
-
-Engage with sustainability as a community experience
-
-Turn small actions into big environmental impact
+- Reduce carbon emissions through daily choices
+- Build sustainable habits
+- Engage with sustainability as a community experience
+- Turn small actions into big environmental impact
 
 ## 🧪 Figma Prototype
 [![View Prototype](https://img.shields.io/badge/View-Prototype-purple)](https://www.figma.com/design/H43IXh9PwUaNGWNcN53HGV/EISC-2026?node-id=0-1&t=MpwN7lv0feh3TiiO-1)
