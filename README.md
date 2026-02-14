@@ -1,5 +1,5 @@
 # 🌍 Terra-Quest
-Category:  Project - Smart Green Innovation
+Category:  Project - Smart Green Innovation (Research Point of View) 
 
 TerraQuest is a gamified sustainability application designed to help users transform everyday actions into measurable environmental impact. By combining real-world data, personalized feedback, and engaging gameplay, TerraQuest bridges the gap between sustainability awareness and long-term behavior change—especially within the UAE lifestyle.
 
