@@ -1,4 +1,4 @@
-# 🏆 National Student Competition on Technology and Sustainability RAK, EISC 2026 Winner 🏆 
+# 🏆 National Student Competition on Technology and Sustainability RAK EISC 2026 Winner 🏆 
 ## 🌍 Terra-Quest
 Category:  Project - Smart Green Innovation (Research Point of View) 
 
