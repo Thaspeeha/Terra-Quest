@@ -130,7 +130,8 @@ TerraQuest empowers users to:
 [![PPT](https://img.shields.io/badge/Presentation-PPTX-blue)](https://www.canva.com/design/DAG--0xnSeM/4_kqzMo-TFnBVaS0vmUpLA/view?utm_content=DAG--0xnSeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04c6a73af5)  
 
 ## 👥 Contributors
-[![Syeda Nizalia](https://img.shields.io/badge/Syeda-Nizalia-blue)](https://www.canva.com/design/DAG--0xnSeM/4_kqzMo-TFnBVaS0vmUpLA/view?utm_content=DAG--0xnSeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h04c6a73af5) 
+[![Syeda Nizalia](https://img.shields.io/badge/Syeda-Nizalia-pink)](https://www.linkedin.com/in/syeda-nizalia/) 
+
 
 ## 📜 License
 
