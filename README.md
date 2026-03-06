@@ -6,7 +6,7 @@ TerraQuest is a gamified sustainability application designed to help users trans
 
 ## 🚀 Project Overview
 
-Many people want to live more sustainably but struggle to understand how daily actions—such as air conditioning usage, commuting, or shopping—affect the environment. Sustainability often feels abstract, complex, and unmotivating.
+Many people want to live more sustainably but struggle to understand how daily actions such as air conditioning usage, commuting, or shopping affect the environment. Sustainability often feels abstract, complex, and unmotivating.
 
 TerraQuest addresses this challenge by turning real-life decisions into clear insights, interactive missions, and rewarding experiences. Instead of static dashboards or overwhelming data, users play their way toward greener habits.
 
