@@ -131,7 +131,8 @@ TerraQuest empowers users to:
 
 ## 👥 Contributors
 [![Syeda Nizalia](https://img.shields.io/badge/Syeda-Nizalia-pink)](https://www.linkedin.com/in/syeda-nizalia/) 
-
+[![Sanjitha Mohammad](https://img.shields.io/badge/Sanjitha-Mohammad-pink)](https://www.linkedin.com/in/sanjitha-mohammad-831556286/) 
+[![Insia Syed](https://img.shields.io/badge/Insia-Syed-pink)](https://www.linkedin.com/in/insia-syed-3645a32b2/) 
 
 ## 📜 License
 
