@@ -75,7 +75,7 @@ Users make eco-friendly purchasing decisions and:
 - Inspired by real UAE landmarks, including cities like Dubai
 - Focus on action, not just information
 
-## 🛠️ Technical Feasibility
+## 🛠️ Proposed Technical Feasibility
 
 - Frontend: Flutter, Android Studio
 - Backend & Database: Firebase / MySQL
