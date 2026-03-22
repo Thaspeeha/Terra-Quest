@@ -134,6 +134,10 @@ TerraQuest empowers users to:
 [![Sanjitha Mohammad](https://img.shields.io/badge/Sanjitha-Mohammad-red)](https://www.linkedin.com/in/sanjitha-mohammad-831556286/) 
 [![Insia Syed](https://img.shields.io/badge/Insia-Syed-purple)](https://www.linkedin.com/in/insia-syed-3645a32b2/) 
 
+## 🚀 My Certificate
+
+[![Certificate](https://img.shields.io/badge/TerraQuest-Certificate-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/1770893468221/single-media-viewer/?profileId=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)
+
 ## 📜 License
 
 This project is licensed for **educational and research purposes only**.  
